@@ -4,7 +4,7 @@
     "name": "onKey Command Mod",
     "description": "Мод, который позволяет установить на клавишу любую команду консоли.",
     "version": "0.1.0",
-    "url": "http://example.com/",
+    "url": "https://github.com/Vadim-212/onkey_command_mod",
     "authorList": ["Vadim212"]
   }
 ]

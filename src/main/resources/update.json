@@ -1,10 +1,10 @@
 {
-  "homepage": "<homepage/download page for your mod>",
-  "<mcversion>": {
-    "<modversion>": "<changelog for this version>"
+  "homepage": "https://github.com/Vadim-212/onkey_command_mod/",
+  "1.16.1": {
+    "0.1.0": "First version of mod!"
   },
   "promos": {
-    "<mcversion>-latest": "<modversion>",
-    "<mcversion>-recommended": "<modversion>"
+    "1.16.1-latest": "0.1.0",
+    "1.16.1-recommended": "0.1.0"
   }
 }
