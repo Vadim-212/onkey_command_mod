@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "onkey_command_mod",
+    "name": "onKey Command Mod",
+    "description": "Мод, который позволяет установить на клавишу любую команду консоли.",
+    "version": "0.1.0",
+    "url": "http://example.com/",
+    "authorList": ["Vadim212"]
+  }
+]

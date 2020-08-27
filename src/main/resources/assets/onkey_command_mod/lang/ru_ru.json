@@ -1,0 +1,9 @@
+{
+  "commands.mymodinfo": "%s, ты используешь onKey Command Mod!",
+  "commands.mymodinfo.color": "%s%s, ты используешь onKey Command Mod! ",
+  "commands.reg_command.key": "Клавиша - %s",
+  "commands.reg_command.no_key_arg": "Вызов команды без аргументов!",
+  "commands.reg_command.command": "Команда - \"%s\"",
+  "commands.reg_command.no_command_arg": "Вызов команды без аргументов!",
+  "commands.reg_command.no_reg": "Команда не зарегистрирована!"
+}

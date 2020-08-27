@@ -1,0 +1,9 @@
+{
+  "commands.mymodinfo": "%s, you are using onKey Command Mod!",
+  "commands.mymodinfo.color": "%s%s, you are using onKey Command Mod! ",
+  "commands.reg_command.key": "Key is %s",
+  "commands.reg_command.no_key_arg": "Called command without arguments!",
+  "commands.reg_command.command": "Command is \"%s\"",
+  "commands.reg_command.no_command_arg": "Called command without arguments!",
+  "commands.reg_command.no_reg": "No command registered!"
+}
